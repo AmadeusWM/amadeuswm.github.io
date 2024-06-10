@@ -1,0 +1,3 @@
+[submodule "themes/personal-site-theme"]
+	path = themes/personal-site-theme
+	url = git@github.com:AmadeusWM/personal-site-theme.git
